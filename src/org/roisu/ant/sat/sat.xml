@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<antlib>
+  <taskdef name="scopes" classname="org.roisu.ant.sat.ScopeTask" />
+  <typedef name="spath" classname="org.roisu.ant.sat.typedef.ScopedPath" />
+  <typedef name="sfilelist" classname="org.roisu.ant.sat.typedef.ScopedFileList" />
+</antlib>
